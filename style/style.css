@@ -19041,3 +19041,7 @@ Primary style
         margin-top: 30px;
     }
 }
+
+.wa-widget-send-button {
+  background-color: #25D366 !important; /* WhatsApp green */
+}
